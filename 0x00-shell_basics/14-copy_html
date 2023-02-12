@@ -1,2 +1,2 @@
 #!/bin/babsh
-cp -u *.html ..
+cp -un *.html ../
